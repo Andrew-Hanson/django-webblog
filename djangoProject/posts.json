@@ -1,0 +1,52 @@
+[
+  {
+    "title": "The Future of Space Exploration",
+    "content": "As we look to the stars, the possibilities seem endless. With recent advancements in rocket technology and international collaborations, we're on the cusp of a new era in space exploration. The journey to Mars is no longer a distant dream but a near-future reality.",
+    "user_id": 3
+  },
+  {
+    "title": "Gardening Tips for Beginners",
+    "content": "Starting your garden can be a rewarding experience. Begin with easy-to-grow plants like tomatoes and basil. Remember, regular watering and sunlight are key. Happy planting!",
+    "user_id": 4
+  },
+  {
+    "title": "Understanding Blockchain",
+    "content": "Blockchain technology is reshaping industries by enabling secure, transparent transactions. At its core, it's a distributed ledger that records all transactions across a network.",
+    "user_id": 3
+  },
+  {
+    "title": "The Art of Coffee Making",
+    "content": "Making the perfect cup of coffee is an art form. From selecting the right beans to mastering your brewing technique, each step is crucial for achieving that flawless flavor.",
+    "user_id": 5
+  },
+  {
+    "title": "Mindfulness and Meditation",
+    "content": "In today's fast-paced world, finding a moment of peace can be challenging. Mindfulness and meditation offer a way to reconnect with ourselves, fostering a sense of calm and focus.",
+    "user_id": 4
+  },
+  {
+    "title": "DIY Home Decor Projects",
+    "content": "Transform your space with simple DIY home decor projects. From handmade wall art to upcycled furniture, there's no limit to what you can create to make your home uniquely yours.",
+    "user_id": 3
+  },
+  {
+    "title": "The Benefits of a Plant-Based Diet",
+    "content": "Switching to a plant-based diet can have profound health benefits. It's not only good for the environment but can also reduce the risk of chronic diseases and improve overall well-being.",
+    "user_id": 5
+  },
+  {
+    "title": "Exploring the World of Indie Games",
+    "content": "Indie games are thriving, offering unique experiences and stories that big studios often overlook. Discover the charm and creativity behind some of the most innovative titles in gaming.",
+    "user_id": 4
+  },
+  {
+    "title": "The Renaissance of Vinyl Records",
+    "content": "Vinyl records are making a comeback, offering a warmth and richness that digital formats can't match. Explore the reasons behind their resurgence and how you can start your own collection.",
+    "user_id": 5
+  },
+  {
+    "title": "The Power of Positive Thinking",
+    "content": "Adopting a positive mindset can transform your life. It's not about ignoring life's challenges but facing them with a positive attitude that opens the door to solutions and growth.",
+    "user_id": 3
+  }
+]
